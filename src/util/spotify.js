@@ -1,4 +1,4 @@
-const clientID = '00d3cb577b0a4ea19dcc7c70cfc5961c';
+const clientID = '*******';
 const redirectURI = 'http://hesitant-street.surge.sh';
 
 let accessToken;
